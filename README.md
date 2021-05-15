@@ -19,7 +19,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/lalouabd">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lalouabd&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="b0n3" />
 </a>
-<a href="https://github.com/lalouabd/">
-  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=lalouabd&show_icons=true&theme=radical&count_private=true&include_all_commits&show_icons=true=true&hide=stars" alt="Stats" />
-</a>
 
