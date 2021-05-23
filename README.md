@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br/>
 <a href="https://github.com/lalouabd">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalouabd&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="b0n3" />
+<img align="center" src="https://github-readme-stats.vercel.app/apiusername=lalouabd&show_icons=true&langs_count=true&theme=gotham&include_all_commits=true&count_private=true" alt="b0n3" />
 </a>
 
 <!--a href="https://github.com/lalouabd/">
