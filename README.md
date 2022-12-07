@@ -11,7 +11,8 @@
 However, I'm also intensively exploring such topics like (among other things): \
 🔹 Apache Kafka \
 🔹 Knative \
-🔹 Quarkus
+🔹 Quarkus \
+🔹 RSocket
 
 # 🏫school
 [![aait-ham's 42 stats](https://badge.mediaplus.ma/kettlebells/aait-ham)](https://github.com/oakoudad/badge42)
